@@ -1,0 +1,19 @@
+{
+  "name": "namaste_swiggy",
+  "version": "1.0.0",
+  "description": "This is Namaste Swiggy",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RahulL2203/namaste_swigyyy.git"
+  },
+  "author": "Rahul_Lakkavarapu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RahulL2203/namaste_swigyyy/issues"
+  },
+  "homepage": "https://github.com/RahulL2203/namaste_swigyyy#readme"
+}
