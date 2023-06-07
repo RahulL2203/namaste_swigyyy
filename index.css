@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+}
+.logo{
+    width:100px;
+    height:80px;
+    border-radius: 50%;
+    padding: 3px;
+
+}
+.nav-items > ul {
+font-size: 20px;
+display: flex;
+justify-items: center;
+list-style-type: none;
+}
+
+.nav-items> ul>li{
+    padding: 3px 5px;
+}
